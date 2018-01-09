@@ -6,5 +6,7 @@ Green
 Blue
 Indigo
 Orange
+Violet
 
 and Unicorn and Pony
+
